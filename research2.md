@@ -1,4 +1,4 @@
-# Financial Time Series Forecasting – Comprehensive Checklist (with inline links)
+# Financial Time Series Forecasting – Checklist
 
 ## Classical Econometrics & Volatility
 - [ ] [AR / MA / ARIMA / SARIMA / ARIMAX](https://otexts.com/fpp3/arima.html)
